@@ -1,0 +1,5 @@
+C:\projects\applications\i-value\app\IValuesh.DAL\bin\Debug\IValuesh.DAL.dll
+C:\projects\applications\i-value\app\IValuesh.DAL\bin\Debug\IValuesh.DAL.pdb
+C:\projects\applications\i-value\app\IValuesh.DAL\obj\Debug\IValuesh.DAL.csprojResolveAssemblyReference.cache
+C:\projects\applications\i-value\app\IValuesh.DAL\obj\Debug\IValuesh.DAL.dll
+C:\projects\applications\i-value\app\IValuesh.DAL\obj\Debug\IValuesh.DAL.pdb

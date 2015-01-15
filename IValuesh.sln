@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IValuesh.DAL", "IValuesh.DAL\IValuesh.DAL.csproj", "{AA99774D-C554-4FB2-863D-F4BD7F3CC354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IValuesh.BLL", "IValuesh.BLL\IValuesh.BLL.csproj", "{75A25018-416A-4931-92CE-49622BB46B70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IValuesh.App", "IValuesh.App\IValuesh.App.csproj", "{A7B7594A-2CAB-41F6-9992-68280D28A335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA99774D-C554-4FB2-863D-F4BD7F3CC354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA99774D-C554-4FB2-863D-F4BD7F3CC354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA99774D-C554-4FB2-863D-F4BD7F3CC354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA99774D-C554-4FB2-863D-F4BD7F3CC354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A25018-416A-4931-92CE-49622BB46B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A25018-416A-4931-92CE-49622BB46B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A25018-416A-4931-92CE-49622BB46B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A25018-416A-4931-92CE-49622BB46B70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B7594A-2CAB-41F6-9992-68280D28A335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B7594A-2CAB-41F6-9992-68280D28A335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B7594A-2CAB-41F6-9992-68280D28A335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B7594A-2CAB-41F6-9992-68280D28A335}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

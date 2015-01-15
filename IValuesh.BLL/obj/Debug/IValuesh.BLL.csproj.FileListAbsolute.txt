@@ -1,0 +1,5 @@
+C:\projects\applications\i-value\app\IValuesh.BLL\bin\Debug\IValuesh.BLL.dll
+C:\projects\applications\i-value\app\IValuesh.BLL\bin\Debug\IValuesh.BLL.pdb
+C:\projects\applications\i-value\app\IValuesh.BLL\obj\Debug\IValuesh.BLL.csprojResolveAssemblyReference.cache
+C:\projects\applications\i-value\app\IValuesh.BLL\obj\Debug\IValuesh.BLL.dll
+C:\projects\applications\i-value\app\IValuesh.BLL\obj\Debug\IValuesh.BLL.pdb
